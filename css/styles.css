@@ -1,0 +1,138 @@
+body{
+  margin: 0;
+  color: #03506f;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+.welcome{
+  color:#eaffd0;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.intro{
+color:#eaffd0;
+}
+.introduction{
+  text-align: center;
+  line-height: 2;
+}
+hr{
+  border: dotted #ff5e78 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+
+}
+.btn {
+	background-color:#ff5bb0;
+	border-radius:16px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:15px;
+	padding:6px 24px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#ef027d;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+h1{
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  color: #eaffd0;
+  margin: 20px auto 0 auto;
+}
+h2{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: 'Kiwi Maru', serif;
+  color: #822659;
+}
+h3{
+  font-family: 'Roboto Slab', serif;
+}
+.topcontainer{
+  background-color: #e36bae;
+  padding: 50px;
+}
+.middlecontainer{
+  background-color: #95e1d3;
+  padding: 20px;
+}
+.bottomcontainer{
+  background-color: #fce38a;
+  padding: 50px 0 20px 0;
+}
+a{
+  color:#822659;
+  font-family: 'Roboto Slab', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#e36bae;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 110px;
+  text-align: left;
+  line-height: 2;
+}
+.coding{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.paint{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+img{
+}
+.topcloud{
+  position: relative;
+  left: 250px;
+}
+.bottomcloud{
+  position: absolute;
+  left:400px;
+}
+.basketball{
+  position: relative;
+  bottom:200px;
+  right:100px;
+}
+.graduation{
+position: relative;
+bottom: 100px;
+right: 50px;
+}
+.milkshake{
+
+}
+.headphones{
+  position: relative;
+  bottom:100px;
+  left:50px;
+}
+.pizza{
+}
+.music{
+  position: relative;
+  bottom:200px;
+  left:100px;
+}
+.propic{
+  border-radius: 50%;
+  border: 5px solid #fce38e;
+}
