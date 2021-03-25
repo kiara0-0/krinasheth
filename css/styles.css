@@ -10,6 +10,26 @@ body{
   font-size: 25px;
   margin-bottom: 20px;
 }
+.headerlinks1{
+  color:#eaffd0;
+  font-size: 18px;
+position: absolute;
+right: 50px;
+font-family: 'Roboto Slab', serif;
+}
+.headerlinks1:hover{
+  	color:#ffffff;
+}
+.headerlinks2{
+  color:#eaffd0;
+  font-size: 18px;
+position: absolute;
+right: 150px;
+font-family: 'Roboto Slab', serif;
+}
+.headerlinks2:hover{
+  	color:#ffffff;
+}
 .intro{
 color:#eaffd0;
 }
@@ -69,6 +89,10 @@ h3{
 .bottomcontainer{
   background-color: #fce38a;
   padding: 50px 0 20px 0;
+}
+.tracking-in-expand {
+	-webkit-animation: tracking-in-expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) ;
+	        animation: tracking-in-expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) ;
 }
 a{
   color:#822659;
